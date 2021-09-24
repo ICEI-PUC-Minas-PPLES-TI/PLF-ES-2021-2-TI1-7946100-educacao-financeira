@@ -15,7 +15,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Rommel Carneiro
 * Simone Nogueira
-*
+* Nathalia Valentim
 
 ## Instruções de utilização
 
