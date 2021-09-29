@@ -64,8 +64,9 @@ Após a criação das personas, foi possível entender um pouco mais sobre suas 
 seus desafios e desejos sobre educação financeira. Destaca-se algumas histórias de usuários.  
 
    
+![Historias de usuarios](https://user-images.githubusercontent.com/19649361/135354061-c20c7c25-fb59-4ed6-a1a8-a2ca6d54e6f9.png)
 
-![Histórias de usuários](https://user-images.githubusercontent.com/19649361/135186486-a44151b7-457c-47fa-a3c9-78f1f112e910.png)
+
 
 # 10_ Requisitos dos Projeto
 
@@ -80,7 +81,8 @@ Requisitos funcionais descrevem o que ele deve fazer.
 Requisito não funcionais
 Os requisitos não funcionais estão relacionados às propriedades emergentes do site, como confiabilidade, e ocupação da área. Cinco requisitos não funcionais foram definidos, sendo representados a seguir. 
 
-![Requisitos não funcionais](https://user-images.githubusercontent.com/19649361/135186782-22302b52-1350-4044-81f1-95e2ca955186.png)
+![Requisitos](https://user-images.githubusercontent.com/19649361/135354106-fac10339-bd3f-4a29-a5de-7bad73288e21.png)
+
 
 
 Restrições 
