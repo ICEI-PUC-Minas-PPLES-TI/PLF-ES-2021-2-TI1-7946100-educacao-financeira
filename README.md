@@ -89,8 +89,13 @@ Tendo como obrigações questões éticas e de responsabilidade unicamente do gr
 
 ![Restrições](https://user-images.githubusercontent.com/19649361/135186878-3a036f20-752b-4d21-85e5-6601422d948e.png)
 
+# 11_ Estrutura e Fluxo de Trabalho
 
-
+Ambiente  | Plataforma  | Link de Acesso
+Repositório de código fonte  | GitHub  | https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7946100-educacao-financeira/edit/master/README.md
+Documentos do projeto  | GitHub  | https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7946100-educacao-financeira/edit/master/README.md
+Projeto de Interface e Wireframes  | MarvelApp  |
+Gerenciamento do Projeto  | Trello  |
 
 
 
