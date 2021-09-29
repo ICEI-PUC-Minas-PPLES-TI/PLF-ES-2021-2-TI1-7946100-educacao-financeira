@@ -64,42 +64,30 @@ Frederico Augusto tem 15 anos e estuda em uma escola pública. Tem se preparado 
 Após a criação das personas, foi possível entender um pouco mais sobre suas realidades,
 seus desafios e desejos sobre educação financeira. Destaca-se algumas histórias de usuários.  
 
-    Eu como...
-        ...quero/desejo...
-              ...para...
-Pedro Henrique
-saber como conseguir guardar um pouco de dinheiro
-conseguir comprar um iPhone e um teclado para computador.
-Lorrayne Maria
-desejo aprender como funciona o rendimento da renda fixa.
-começar a juntar dinheiro para uma viagem de intercâmbio.
-Gustavo Araújo
-quero aprender sobre Bitcoins
-comprar meu carro. 
-Amanda Pauline
-aprender como guardar dinheiro e não gastar tudo
-pagar meu celular e depois guardar para estudos.
-Frederico Augusto
-quero aprender a economizar e guardar dinheiro.
-trocar meu computador e comprar uma televisão.
-Otávio Vinicius
-aprender sobre tesouro direto.
-para ter algo e conseguir aposentar.
-Marcia Fernanda
-como encontrar produtos de supermercado mais barato
-ajudar os pais na despesa da casa
-Gustavo Matheus
+   
+
+![Histórias de usuários](https://user-images.githubusercontent.com/19649361/135186486-a44151b7-457c-47fa-a3c9-78f1f112e910.png)
+
+# 10_Requisitos dos Projeto
+
+Para que um projeto seja funcional, é necessário a definição dos requisitos funcionais, onde ocorre a materialização de uma necessidade do usuário ou solicitação realizada por um software, bem como os requisitos não funcionais que definem como o sistema fará o que lhe foi solicitado.  Os requisitos são apresentados logo abaixo.
+
+Requisitos Funcionais 
+Requisitos funcionais descrevem o que ele deve fazer. 
+É apresentado na tabela a seguir os  dez requisitos do projeto, identificando a prioridade em que eles devem ser entregues. 
+
+![Requisitos Funcionais](https://user-images.githubusercontent.com/19649361/135186662-3b3aca0e-336e-43d5-b70b-b924c4f240a4.png)
+
+Requisito não funcionais
+Os requisitos não funcionais estão relacionados às propriedades emergentes do site, como confiabilidade, e ocupação da área. Cinco requisitos não funcionais foram definidos, sendo representados a seguir. 
+
+![Requisitos não funcionais](https://user-images.githubusercontent.com/19649361/135186782-22302b52-1350-4044-81f1-95e2ca955186.png)
 
 
-pagar meu curso de inglês e depois viajar para os EUA
-Olivia Diniz
+Restrições 
+Tendo como obrigações questões éticas e de responsabilidade unicamente do grupo proposto, é descrito restrições para o desenvolvimento do projeto descrito nos itens mencionados acima.
 
-
-poder fazer faculdade e ajudar em casa.
-Ana Maria
-
-
-para poder ajudar em casa e fazer faculdade
+![Restrições](https://user-images.githubusercontent.com/19649361/135186878-3a036f20-752b-4d21-85e5-6601422d948e.png)
 
 
 
