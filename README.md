@@ -41,3 +41,69 @@ A cidadania é uma articulação dos direitos e deveres civis, políticos e soci
 O exercício da cidadania é ingrediente indispensável da construção de uma sociedade democrática e justa, e a Educação Financeira tem como principal propósito ser um dos componentes dessa formação para a cidadania. E devemos oferecer ferramentas que auxiliem no comportamento do consumo .  
 #  6_ PUBLICO –ALVO 
 
+
+# 7_ Especificações do Projeto 
+Com a certeza que em algum momento da vida todos precisam gerir seu dinheiro e por vezes o dinheiro de outras pessoas este projeto tem a intenção de levar a familiarização do tema para adolescentes. As informações e dados levantados para o projeto foram obtidos através de entrevistas e questionários. A consolidação foi criada na forma de personas e relatos dos entrevistados. 
+
+# 8_ Personas
+
+Pedro Henrique tem 14 anos, é estudante de escola pública. Ainda não sabe o que gostaria de fazer na graduação, mas gosta de jogos. Mora com sua mãe e tia e aprende diariamente com elas sobre reutilização de alimentos. Quando consegue algum dinheiro compra lanches, coisas de jogos e presente para sua mãe. 
+
+
+Lorrayne Maria tem 15 anos, é estudante de escola particular. Deseja fazer faculdade de direito seguindo a profissão do seu pai. Mora com seus pais e dois irmãos, sendo ela a filha caçula. Ajuda a mãe mensalmente nas compras do supermercado mas não gosta muito de ir ao sacolão. Recebe uma mesada de dois em dois meses e usa seu dinheiro para sair com os amigos. 
+
+
+Gustavo Araújo tem 15 anos, é estudante de escola militar. Gostaria de ser bombeiro. Ajuda seu pai na parte da tarde no comércio da família. Gosta de jogar bola e das aulas de química. Quando recebe seu pagamento, guarda parte para comprar seu carro quando fizer 18 anos. 
+
+Amanda Pauline tem 13 anos, é estudante de escola pública.Deseja fazer faculdade de Estética ou Psicologia. Mora com seus pais e um irmão. É responsável por cuidar das atividades da casa durante a semana. Ajuda a prima no salão para pagar seu smartphone.  
+
+Frederico Augusto tem 15 anos e estuda em uma escola pública. Tem se preparado para fazer Engenharia Civil na federal. Sempre que consegue ajuda a lavar no lava a jato que tem perto de sua casa. Grava vídeos para seu canal do Youtube sobre games. 
+
+# 9_ Histórias de usuários 
+
+Após a criação das personas, foi possível entender um pouco mais sobre suas realidades,
+seus desafios e desejos sobre educação financeira. Destaca-se algumas histórias de usuários.  
+
+    Eu como...
+        ...quero/desejo...
+              ...para...
+Pedro Henrique
+saber como conseguir guardar um pouco de dinheiro
+conseguir comprar um iPhone e um teclado para computador.
+Lorrayne Maria
+desejo aprender como funciona o rendimento da renda fixa.
+começar a juntar dinheiro para uma viagem de intercâmbio.
+Gustavo Araújo
+quero aprender sobre Bitcoins
+comprar meu carro. 
+Amanda Pauline
+aprender como guardar dinheiro e não gastar tudo
+pagar meu celular e depois guardar para estudos.
+Frederico Augusto
+quero aprender a economizar e guardar dinheiro.
+trocar meu computador e comprar uma televisão.
+Otávio Vinicius
+aprender sobre tesouro direto.
+para ter algo e conseguir aposentar.
+Marcia Fernanda
+como encontrar produtos de supermercado mais barato
+ajudar os pais na despesa da casa
+Gustavo Matheus
+
+
+pagar meu curso de inglês e depois viajar para os EUA
+Olivia Diniz
+
+
+poder fazer faculdade e ajudar em casa.
+Ana Maria
+
+
+para poder ajudar em casa e fazer faculdade
+
+
+
+
+
+
+
