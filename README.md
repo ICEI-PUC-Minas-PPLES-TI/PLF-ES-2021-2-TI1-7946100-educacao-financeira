@@ -95,8 +95,8 @@ Ambiente                           | Plataforma  | Link de Acesso
 -----------------------------------|-------------|----------------------------------------------------------------------------------------------------------------
 Repositório de código fonte        | GitHub      | https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7946100-educacao-financeira/edit/master/README.md
 Documentos do projeto              | GitHub      | https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7946100-educacao-financeira/edit/master/README.md
-Projeto de Interface e Wireframes  | MarvelApp   |
-Gerenciamento do Projeto           | Trello      |
+Projeto de Interface e Wireframes  | Figma       | https://www.figma.com/proto/KhOIBgaaEGhzJiFsZI7Fyn/Wireframes%2FEduca%C3%A7%C3%A3o-Financeira?node-id=1%3A24&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A24
+Gerenciamento do Projeto           | Trello      | https://trello.com/invite/b/W1I1VUPZ/a10ddd99c79a249930aee4b52656c847/kanban
 
 
 # 12_ Projeto de iterface
