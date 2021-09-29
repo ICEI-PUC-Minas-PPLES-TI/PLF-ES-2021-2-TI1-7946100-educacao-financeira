@@ -40,8 +40,7 @@ Como Objetivos específicos podemos citar :
 A cidadania é uma articulação dos direitos e deveres civis, políticos e sociais (Marshall, 1967). Ser cidadão, portanto, é ter direito de usufruir várias possibilidades que a vida oferece, tais como liberdade, igualdade, propriedade, participação política, educação, saúde, moradia, trabalho, dentre outras. Ser cidadão é ser responsavelmente ativo na sociedade, protagonizando a construção da democracia. Nessa linha, Perrenoud (2002) indica que ensinar direitos e deveres sem uma mudança de pensamento e uma tomada de ação não é suficiente para se formar cidadãos. 
 O exercício da cidadania é ingrediente indispensável da construção de uma sociedade democrática e justa, e a Educação Financeira tem como principal propósito ser um dos componentes dessa formação para a cidadania. E devemos oferecer ferramentas que auxiliem no comportamento do consumo .  
 #  6_ PUBLICO –ALVO 
-
-
+A população jovem de 13 a 15 anos, foco do nosso estudo, sofre com o grande apelo consumista exercido pela sociedade atual, seja por meio da mídia ou pelos grupos ao qual pertence ou almeja pertencer. Isso a leva muitas vezes a pensar apenas no consumo presente e não no planejamento futuro. Nesse contexto, a educação financeira se torna primordial para orientar essa população, capacitando-a em suas escolhas conscientes, de acordo com sua renda. Por isso escolhemos eles como nosso público –alvo. 
 # 7_ Especificações do Projeto 
 Com a certeza que em algum momento da vida todos precisam gerir seu dinheiro e por vezes o dinheiro de outras pessoas este projeto tem a intenção de levar a familiarização do tema para adolescentes. As informações e dados levantados para o projeto foram obtidos através de entrevistas e questionários. A consolidação foi criada na forma de personas e relatos dos entrevistados. 
 
