@@ -68,7 +68,7 @@ seus desafios e desejos sobre educação financeira. Destaca-se algumas históri
 
 ![Histórias de usuários](https://user-images.githubusercontent.com/19649361/135186486-a44151b7-457c-47fa-a3c9-78f1f112e910.png)
 
-# 10_Requisitos dos Projeto
+# 10_ Requisitos dos Projeto
 
 Para que um projeto seja funcional, é necessário a definição dos requisitos funcionais, onde ocorre a materialização de uma necessidade do usuário ou solicitação realizada por um software, bem como os requisitos não funcionais que definem como o sistema fará o que lhe foi solicitado.  Os requisitos são apresentados logo abaixo.
 
