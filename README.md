@@ -86,9 +86,10 @@ Os requisitos não funcionais estão relacionados às propriedades emergentes do
 
 
 Restrições 
-Tendo como obrigações questões éticas e de responsabilidade unicamente do grupo proposto, é descrito restrições para o desenvolvimento do projeto descrito nos itens mencionados acima.
+Tendo em vista questões éticas, é descrito restrições para o desenvolvimento do projeto descrito nos itens mencionados a seguir
 
-![Restrições](https://user-images.githubusercontent.com/19649361/135186878-3a036f20-752b-4d21-85e5-6601422d948e.png)
+![restrições01](https://user-images.githubusercontent.com/19649361/135365629-26693948-ccbf-4435-8a94-58fbfa777317.png)
+
 
 # 11_ Estrutura e Fluxo de Trabalho
 
