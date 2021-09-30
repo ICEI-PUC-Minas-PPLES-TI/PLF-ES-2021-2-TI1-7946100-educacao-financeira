@@ -72,20 +72,23 @@ seus desafios e desejos sobre educação financeira. Destaca-se algumas históri
 
 Para que um projeto seja funcional, é necessário a definição dos requisitos funcionais, onde ocorre a materialização de uma necessidade do usuário ou solicitação realizada por um software, bem como os requisitos não funcionais que definem como o sistema fará o que lhe foi solicitado.  Os requisitos são apresentados logo abaixo.
 
-Requisitos Funcionais 
+# Requisitos Funcionais 
+
 Requisitos funcionais descrevem o que ele deve fazer. 
 É apresentado na tabela a seguir os  dez requisitos do projeto, identificando a prioridade em que eles devem ser entregues. 
 
 ![Requisitos Funcionais](https://user-images.githubusercontent.com/19649361/135186662-3b3aca0e-336e-43d5-b70b-b924c4f240a4.png)
 
-Requisito não funcionais
+# Requisito não funcionais
+
 Os requisitos não funcionais estão relacionados às propriedades emergentes do site, como confiabilidade, e ocupação da área. Cinco requisitos não funcionais foram definidos, sendo representados a seguir. 
 
 ![Requisitos](https://user-images.githubusercontent.com/19649361/135354106-fac10339-bd3f-4a29-a5de-7bad73288e21.png)
 
 
 
-Restrições 
+# Restrições 
+
 Tendo em vista questões éticas, é descrito restrições para o desenvolvimento do projeto descrito nos itens mencionados a seguir
 
 ![restrições01](https://user-images.githubusercontent.com/19649361/135365629-26693948-ccbf-4435-8a94-58fbfa777317.png)
