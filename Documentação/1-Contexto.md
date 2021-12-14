@@ -1,16 +1,7 @@
 # Introdução
-
+O papel desempenhado pela escola na vida dos alunos, vai muito além de conteúdo teóricos. Espera-se formar cidadãos pensantes, padrões, com valores éticos e morais. Um ponto importantíssimo na formação do aluno é a educação financeira, visto que hoje em dia a quantidade de pessoas inadimplentes é enorme. Os alunos se deparam com muitas opções de credito, parcelamentos e assim, a Educação financeira pode ser útil na tomada de decisão pela aquisição de algum bem, por exemplo. Atualmente, nas escolas, a Educação Financeira é vista de forma muito superficial. Este trabalho traz uma proposta para se trabalhar os conteúdos da Educação Financeira com o auxílio de uma ferramenta web, com o intuito de despertar maior interesse nos alunos para esse conteúdo, que é tão importante. Diante dessa perspectiva estimulando hábitos como poupar, investir, analisar,
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
+> 
 >
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
