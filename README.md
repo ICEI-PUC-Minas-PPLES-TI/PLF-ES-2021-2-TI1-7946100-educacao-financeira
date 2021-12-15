@@ -5,9 +5,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Anthony Luan
 * Gabriel Alves
-* Gustavo Sipoli
 * Rafael Viana
 * Thiago Valentin
 
