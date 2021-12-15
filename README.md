@@ -154,10 +154,3 @@ Tela principal que traz conhecimentos sobre educação fiananceira.
 Tela de inicio para cadastro no site 
  
 15_ REFERÊNCIAS 
-
-ANTUKH, Andrey. Jnanomsg documentation. Disponível em:
-<http://niwinz.github.io/jnanomsg/latest/>. Acesso em: 08 set. 2016.
-BILAL, Kashif; MOHSIN, Sajjad. Muhadith: A Cloud Based Distributed Expert System for Classification of Ahadith. 2012 10th International Conference On Frontiers Of Information Technology, [s.l.], p.73-78, dez. 2012. Institute of Electrical & Electronics Engineers (IEEE). http://dx.doi.org/10.1109/fit.2012.22.
-COULOURIS, George et al. Sistemas Distribuídos: Conceitos e Projeto. 5. ed. -: Bookman, 2013. Disponível em:
-<https://books.google.com.br/books?id=6WU3AgAAQBAJ&printsec=frontcover&dq=siste mas+distribuidos+pdf&hl=en&sa=X&ved=0ahUKEwjTyISM-vbOAhUCS5AKHZGICW4Q 6AEIHjAA#v=onepage&q=sistemas distribuidos pdf&f=false>. Acesso em: 04 set. 2016.
-ESTRADA, Nicolas; ASTUDILLO, Hernan. Comparing scalability of message queue system: ZeroMQ vs RabbitMQ. 2015 Latin American Computing Conference (clei), [s.l.], p.1-6, out. 2015. Institute of Electrical & 
