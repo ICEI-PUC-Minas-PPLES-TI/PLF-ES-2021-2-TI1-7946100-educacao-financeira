@@ -1,105 +1,77 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
+Com a certeza que em algum momento da vida todos precisam gerir seu
+dinheiro e por vezes o dinheiro de outras pessoas este projeto tem a intenção de levar
+a familiarização do tema para adolescentes. As informações e dados levantados para o
+projeto foram obtidos através de entrevistas e questionários. A consolidação foi criada
+na forma de personas e relatos dos entrevistados.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+Pedro Henrique tem 14 anos, é estudante de escola pública. Ainda não sabe o
+que gostaria de fazer na graduação, mas gosta de jogos. Mora com sua mãe e tia e 
+aprende diariamente com elas sobre reutilização de alimentos. Quando consegue algum
+dinheiro compra lanches, coisas de jogos e presente para sua mãe.
 
+Lorrayne Maria tem 15 anos, é estudante de escola particular. Deseja fazer
+faculdade de direito seguindo a profissão do seu pai. Mora com seus pais e dois irmãos,
+sendo ela a filha caçula. Ajuda a mãe mensalmente nas compras do supermercado mas
+não gosta muito de ir ao sacolão. Recebe uma mesada de dois em dois meses e usa seu
+dinheiro para sair com os amigos.
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
+Gustavo Araújo tem 15 anos, é estudante de escola militar. Gostaria de ser
+bombeiro. Ajuda seu pai na parte da tarde no comércio da família. Gosta de jogar bola
+e das aulas de química. Quando recebe seu pagamento, guarda parte para comprar seu
+carro quando fizer 18 anos.
+
+Amanda Pauline tem 13 anos, é estudante de escola pública.Deseja fazer
+faculdade de Estética ou Psicologia. Mora com seus pais e um irmão. É responsável
+por cuidar das atividades da casa durante a semana. Ajuda a prima no salão para pagar
+seu smartphone.
+
+Frederico Augusto tem 15 anos e estuda em uma escola pública. Tem se
+preparado para fazer Engenharia Civil na federal. Sempre que consegue ajuda a lavar
+no lava a jato que tem perto de sua casa. Grava vídeos para seu canal do Youtube sobre
+games.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Após a criação das personas, foi possível entender um pouco mais sobre suas
+realidades, seus desafios e desejos sobre educação financeira. Destaca-se algumas
+histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+![image](https://user-images.githubusercontent.com/91295966/146277901-875dffb7-e775-4832-841a-f7309a05014f.png)
 
 ## Requisitos
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Para que um projeto seja funcional, é necessário a definição dos requisitos
+funcionais, onde ocorre a materialização de uma necessidade do usuário ou solicitação
+realizada por um software, bem como os requisitos não funcionais que definem como
+o sistema fará o que lhe foi solicitado. Os requisitos são apresentados logo abaixo.
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+Requisitos funcionais descrevem o que ele deve fazer. É apresentado na tabela
+a seguir os dez requisitos do projeto, identificando a prioridade em que eles devem ser
+entregues.
+
+![image](https://user-images.githubusercontent.com/91295966/146278011-7e1ed11c-fcb7-4c48-955f-b566c9e76ae7.png)
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+Os requisitos não funcionais estão relacionados às propriedades emergentes 
+do site, como confiabilidade, e ocupação da área. Cinco requisitos não funcionais foram
+definidos, sendo representados a seguir.
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+![image](https://user-images.githubusercontent.com/91295966/146278053-35d903cb-ab09-4705-9ec5-98311a74abba.png)
+
 
 ## Restrições
 
-O projeto está restrito pelos itens apresentados na tabela a seguir.
+Tendo em vista questões éticas, é descrito restrições para o desenvolvimento
+do projeto descrito nos itens mencionados a seguir
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+![image](https://user-images.githubusercontent.com/91295966/146278101-13b22a04-dda3-470e-bd1f-d513ad555936.png)
 
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
