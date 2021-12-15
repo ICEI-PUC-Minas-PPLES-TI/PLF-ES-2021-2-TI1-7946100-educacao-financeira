@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "periodo": "Diário",
+            "categoria": "Alimentação",
+            "valor": 20.00,
+            "data": "04/03/2021",
+            "lembrete": "Almoço de segunda."
+        },
+        {
+            "id": 2,
+            "periodo": "Semanal",
+            "categoria": "Educação",
+            "valor": 180.50,
+            "data": "17/03/2021",
+            "lembrete": "Curso da Udemy."
+        },
+        {
+            "id": 3,
+            "periodo": "Mensal",
+            "categoria": "Jogos",
+            "valor": 22.99,
+            "data": "25/06/2021",
+            "lembrete": "Jogo na Steam."
+        },
+        {
+            "id": 4,
+            "periodo": "Trimestral",
+            "categoria": "Lazer",
+            "valor": 56.99,
+            "data": "28/10/2021",
+            "lembrete": "Ingresso de parque de diversões."
+        },
+        {
+            "id": 5,
+            "periodo": "Mensal",
+            "categoria": "Outros",
+            "valor": 1843.25,
+            "data": "01/11/2021",
+            "lembrete": "Boleto da faculdade."
+        }
+    ]
+}
