@@ -1,0 +1,29 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Educação Financeira
+authors:
+  - family-names: Alves
+    given-names: Gabriel 
+  - family-names: Viana
+    given-names: Rafael  
+  - family-names: Valentin
+    given-names: Thiago  
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Assis Valentim
+    given-names: Nathalia   
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone  
+keywords:
+  - Educação 
+  - Financeira
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7946100-educacao-financeira 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-12-22
